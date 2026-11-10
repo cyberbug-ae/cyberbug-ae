@@ -8,7 +8,7 @@
 
 - **AI-powered websites** — marketing sites and web apps with real AI inside
 - **Custom web design & development** — Next.js, Supabase, deployed to your domain in weeks
-- **AI solutions** — chatbots, assistants, and automation that touch real systems (CRM, calendar, Stripe, docs)
+- **AI solutions** — chatbots, assistants, and automation that touch real systems (CRM, calendar, payments, docs)
 - **AI consulting** — one session, one roadmap, one honest estimate
 
 ### How we work
@@ -23,7 +23,7 @@ No retainers you can't cancel. No agency theater. One founder, direct line.
 
 ### Stack we reach for
 
-`Next.js` · `Supabase` · `Vercel` · `Cloudflare` · `OpenAI` · `Anthropic` · `Stripe` · `Resend`
+`Next.js` · `Supabase` · `Vercel` · `Cloudflare` · `OpenAI` · `Anthropic` · `Tap Payments` · `Resend`
 
 ---
 
@@ -35,6 +35,6 @@ Templates and tools get pinned here as we extract them from client work. Watch t
 
 - **Site** — [cyberbug.ae](https://cyberbug.ae)
 - **Email** — founder@cyberbug.ae
-- **DM** — [@cyberbug_ae on X](https://x.com/cyberbug_ae) · [@cyberbug.ae on Instagram](https://instagram.com/cyberbug.ae)
+- **DM** — [@cyberbugae on X](https://x.com/cyberbugae) · [@cyberbug.ae on Instagram](https://instagram.com/cyberbug.ae)
 
 <sub>Solo-run from Abu Dhabi 🇦🇪</sub>
